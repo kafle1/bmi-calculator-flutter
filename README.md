@@ -1,16 +1,37 @@
-# bmi_calculator
 
-A new Flutter project.
+# BMI Calculator - Flutter App
 
-## Getting Started
+BMI Calculator is simply a calculator which calculates your body mass index. It tells you how fit you are. The app uses various features of flutter app development like class components, theme, custom theme, custom widgets and more.
 
-This project is a starting point for a Flutter application.
+## Preview
 
-A few resources to get you started if this is your first Flutter project:
+![App Screenshot](https://i.ibb.co/r2Cp0bt/Screenshot-1632383311.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+See Screenshots:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[Image 1](https://i.ibb.co/r2Cp0bt/Screenshot-1632383311.png), 
+[Image 2](https://i.ibb.co/j6NtdVg/Screenshot-1632383526.png)
+  
+## Tech Stack
+
+Flutter, Dart
+
+  
+## Run Test
+
+1. Open your emulator from desired place. I prefer android studio virtual device.
+2. Then open the code with VS code / Android studio and press F5 in Vs code start app or Click on play button in android studio.
+
+ 
+ Enjoy!
+  
+## Developer
+
+- [@kafle1](https://www.github.com/kafle1)
+
+  
+## Support / Contact
+
+For support, email kafleniraj@gmail.com.
+
+  
